@@ -1,0 +1,6 @@
+Video del sito:
+
+  cantiere.mp4 -> video dal cantiere (verticale, 17 s, tagliato prima della chiusura Instagram)
+  cantiere.jpg -> immagine di anteprima
+
+Per cambiare video basta sostituire cantiere.mp4 mantenendo lo stesso nome.
